@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2fd5161-a3f9-4cc3-9dce-90f311be70d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gtWTApbXmSprwuSyusqUUe1wrI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\case-study\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2fd5161-a3f9-4cc3-9dce-90f311be70d3" name="Default Changelist" comment="" />
+      <created>1598934374213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598934374213</updated>
+      <workItem from="1598934375318" duration="7766000" />
+      <workItem from="1598993099635" duration="8105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="776" y="176" key="#Images" timestamp="1598993506568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="776" y="176" key="#Images/0.0.1366.728@0.0.1366.728" timestamp="1598993506568" />
+    <state x="754" y="241" width="612" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598942842385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="754" y="241" width="612" height="282" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1598942842385" />
+    <state x="680" y="164" key="run.anything.popup" timestamp="1598998930547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="680" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598998930547" />
+  </component>
+</project>
