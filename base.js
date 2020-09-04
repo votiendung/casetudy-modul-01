@@ -1,4 +1,4 @@
-let bg = function (game) {
+let base = function (game) {
     this.game = game;
     this.image = null;
     this.loaded = false;
@@ -6,7 +6,6 @@ let bg = function (game) {
     this.x = 0;
 
     this.init = function () {
-
         this.loadImage();
     }
     this.loadImage = function () {
@@ -14,14 +13,14 @@ let bg = function (game) {
         this.image.onload = function () {
             self.loaded = true;
         }
-        this.image.src = "assets/sprites/bg-night.png";
+        this.image.src = "assets/sprites/base.png";
     }
     this.update = function () {
         if (this.game.gameOver) {
             return ;
         }
-        this.x--;
-        if (this.x == -288) {
+        this.x -= 2;
+        if (this.x == -336) {
             this.x = 0;
         }
 
@@ -31,11 +30,7 @@ let bg = function (game) {
         if (self.loaded == false) {
             return;
         }
-        self.game.context.drawImage(this.image, this.x, 0);
-        self.game.context.drawImage(this.image, this.x + 288, 0);
-        // console.log('draw');
-    }
-    this.endBackGround = function (){
-        this.image = "assets/sprites/gameover.png";
+        self.game.context.drawImage(this.image, this.x, this.game.height - 90);
+        self.game.context.drawImage(this.image, this.x + 288, this.game.height - 90);
     }
 }
