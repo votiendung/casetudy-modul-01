@@ -86,6 +86,8 @@ let bird = function (game) {
         if (this.y >= 400) {
             this.game.gameOver = true;
             alert('GAME OVER SCORE: ' + score);
+            die.play();
+            die.stop();
 
         }
 
@@ -106,8 +108,9 @@ let bird = function (game) {
             )
         ) {
             this.game.gameOver = true;
+            hit.play();
             alert('GAME OVER SCORE: ' + score);
-            return ;
+            hit.stop();
 
         }
 
