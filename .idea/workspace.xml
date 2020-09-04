@@ -20,40 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2fd5161-a3f9-4cc3-9dce-90f311be70d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pipe.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/audio/die.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/audio/hit.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/audio/point.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/audio/swoosh.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/audio/wing.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/bg-day.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/bluebird-downflap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/bluebird-midflap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/bluebird-upflap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/gameover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/pipe-red.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/redbird-downflap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/redbird-midflap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/redbird-upflap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/yellowbird-downflap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/yellowbird-midflap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/sprites/yellowbird-upflap.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bg.js" beforeDir="false" afterPath="$PROJECT_DIR$/bg.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird.js" beforeDir="false" afterPath="$PROJECT_DIR$/bird.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +74,7 @@
       <workItem from="1599040591881" duration="20377000" />
       <workItem from="1599094593365" duration="25682000" />
       <workItem from="1599145892268" duration="13269000" />
-      <workItem from="1599181328125" duration="4737000" />
+      <workItem from="1599181328125" duration="5524000" />
     </task>
     <servers />
   </component>
